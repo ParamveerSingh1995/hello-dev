@@ -4,4 +4,6 @@ this is feature3 from dev-3
 
 thik ho gya
 
-added dev-1 changes
+added dev-1 change
+
+added something new
